@@ -63,6 +63,7 @@ h1 {
 	background-clip: text;
 }
 
+
 #username-form,
 .mainChat {
 	position: relative;
@@ -86,7 +87,10 @@ h1 {
 	background: linear-gradient(90deg, transparent, var(--accent), transparent);
 	content: "";
 }
-
+#username-form:hover{
+	transform: translateY(-2px);
+    box-shadow: 0 0 24px rgba(109, 245, 232, 0.4);
+}
 label {
 	display: block;
 	margin-bottom: 10px;
@@ -108,6 +112,10 @@ input {
 	color: var(--ink);
 	font: inherit;
 	transition: border-color 180ms ease, box-shadow 180ms ease, background 180ms ease;
+}
+input:hover{
+	   transform: translateY(-2px);
+    box-shadow: 0 0 24px rgba(109, 245, 232, 0.4);
 }
 
 input::placeholder {
