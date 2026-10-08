@@ -4,6 +4,11 @@ Prosta aplikacja czatowa umożliwiająca komunikację wielu użytkowników w cza
 
 Projekt został wykonany na podstawie pomysłu [Chat App z App Ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Chat-App.md#chat-app).
 
+## Podgląd aplikacji
+
+![Widok aplikacji czatowej](screenshots/chat-app.png)
+
+
 **Poziom projektu:** 3 - Zaawansowany
 
 ## Spis treści
